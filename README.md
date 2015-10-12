@@ -29,7 +29,7 @@
 ## 主题 (Theme)
 [Afterglow](https://github.com/YabataDesign/afterglow-theme)
 
-![图片](/Screenshots/D4CD1C6C-F456-4EB3-BD17-7EFA58D5AA54.png)
+![图片](/liveNo/Sublime-Tutorial/blob/master/Screenshots/D4CD1C6C-F456-4EB3-BD17-7EFA58D5AA54.png)
 
 ## 快捷键 (keymap)
 > Sublime Text 常用快捷键（MAC 下）
