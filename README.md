@@ -24,13 +24,22 @@
 > 按下Cmd+Shift+P 调出命令面板，输入install并调出Install Package选项并回车，然后在列表中选中要安装的插件。
 
 ### 推荐插件
-* [Emmet](http://emmet.io/) 概括的说，Emmet(其前身是Zen Coding) 是一个可以让你更快更高效地编写HTML/CSS，可以节省你大量时间的插件。
+* **[Emmet](http://emmet.io/)** 概括的说，Emmet(其前身是Zen Coding) 是一个可以让你更快更高效地编写HTML/CSS，可以节省你大量时间的插件。
 
 	![Emmet](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/emmet.gif)
 	
-* [Git](https://github.com/kemayo/sublime-text-git)   这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
+* **[Git](https://github.com/kemayo/sublime-text-git)**   这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
 
 	![GIT](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/git.jpeg)
+	
+* **[AutoFileName](https://github.com/BoundInCode/AutoFileName)** 自动补全文件路径，非常方便。
+
+	![AutoFileName](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/autofilename.jpg)
+	
+* **[DocBlockr](https://github.com/spadgos/sublime-jsdocs)** DocBlockr会成为你编写代码文档的有效工具。当输入/**并且按下Tab键的时候，这个插件会自动解析任何一个函数并且为你准备好合适的模板
+
+	![DocBlockr](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/docblock.jpeg)
+	
 
 ## 主题 (Theme)
 [Afterglow](https://github.com/YabataDesign/afterglow-theme)  **Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme Spacegray. The syntax color scheme is mostly derived from idlefingers.**
@@ -40,6 +49,8 @@
 [Material](https://github.com/equinusocio/material-theme) **点击看具体的吧**
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
+
+
 
 ## 快捷键 (keymap)
 > Sublime Text 常用快捷键（MAC 下） 
