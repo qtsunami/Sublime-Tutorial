@@ -24,7 +24,13 @@
 > 按下Cmd+Shift+P 调出命令面板，输入install并调出Install Package选项并回车，然后在列表中选中要安装的插件。
 
 ### 推荐插件
-> `==`
+* [Emmet](http://emmet.io/) 概括的说，Emmet(其前身是Zen Coding) 是一个可以让你更快更高效地编写HTML/CSS，可以节省你大量时间的插件。
+
+	![Emmet](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/emmet.gif)
+	
+* [Git](https://github.com/kemayo/sublime-text-git)   这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
+
+	![GIT](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/git.jpeg)
 
 ## 主题 (Theme)
 [Afterglow](https://github.com/YabataDesign/afterglow-theme)  **Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme Spacegray. The syntax color scheme is mostly derived from idlefingers.**
