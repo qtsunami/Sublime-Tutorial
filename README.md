@@ -31,6 +31,10 @@
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/D4CD1C6C-F456-4EB3-BD17-7EFA58D5AA54.png)
 
+[Material](https://github.com/equinusocio/material-theme) **点击看具体的吧**
+
+![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
+
 ## 快捷键 (keymap)
 > Sublime Text 常用快捷键（MAC 下） 
 > 
@@ -82,7 +86,6 @@
 ⌘U				| 软撤销（可撤销光标移动）
 ⌘⇧U				| 软重做（可重做光标移动）
 
-
 **查找/替换**
 
 快捷键 		  	| 功能
@@ -103,7 +106,11 @@
 ⌃⇧[1,2,3,4]	| 将当前文件移动到相应的组（分屏编号）
 ⌘[1,2,3,4]	| 选择相应的标签页
 
+**快捷操作**
 
+快捷键 		  	| 功能
+------------ 	| ---------------------
+⌘⌃上下键		| 两行交换位置
 
 
 
