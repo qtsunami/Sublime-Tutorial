@@ -1,9 +1,9 @@
 # Sublime Text 快捷键
 
-## 介绍 (Introduce)
+## 0x00 介绍 (Introduce)
 > Sublime Text具有漂亮的用户界面和强大的功能，例如代码缩略图，Python的插件，代码段等。还可自定义键绑定，菜单和工具栏。Sublime Text 的主要功能包括：拼写检查，书签，完整的 Python API ， Goto 功能，即时项目切换，多选择，多窗口等等。Sublime Text 是一个跨平台的编辑器，同时支持Windows、Linux、Mac OS X等操作系统。
 
-## 插件 (Plugins)
+## 0x01 插件 (Plugins)
 > Sublime Text 有一个强大的，基于python的插件API。
 
 ### 安装Package Control
@@ -28,6 +28,7 @@
 
 	![Emmet](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/emmet.gif)
 	
+	<font color=red>调用Emmet快捷键：</font>⌃⌥↩。
 * **[Git](https://github.com/kemayo/sublime-text-git)**   这个插件会将Git整合进你的SublimeText，使的你可以在SublimeText中运行Git命令，包括添加，提交文件，查看日志，文件注解以及其它Git功能。
 
 	![GIT](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/git.jpeg)
@@ -41,7 +42,7 @@
 	![DocBlockr](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/docblock.jpeg)
 	
 
-## 主题 (Theme)
+## 0x02 主题 (Theme)
 [Afterglow](https://github.com/YabataDesign/afterglow-theme)  **Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme Spacegray. The syntax color scheme is mostly derived from idlefingers.**
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/D4CD1C6C-F456-4EB3-BD17-7EFA58D5AA54.png)
@@ -52,7 +53,7 @@
 
 
 
-## 快捷键 (keymap)
+## 0x03 快捷键 (keymap)
 > Sublime Text 常用快捷键（MAC 下） 
 > 
 > 符号说明 
@@ -69,7 +70,9 @@
 快捷键 		  	| 功能
 ------------ 	| ---------------------
 ⌘⇧N   			| 打开一个新的sublime窗口
+⌘N   			| 新建文件
 ⌘⇧W   			| 关闭sublime，关闭所有文件
+⌘W   			| 关闭当前文件
 ⌘⇧T   			| 重新打开最近关闭的文件
 ⌘T				| 前往文件
 ⌘⌃P				| 前往项目
@@ -95,13 +98,22 @@
 ⌘J				| 合并（多）行
 ⌘KU				| 改为大写
 ⌘KL				| 改为小写
+⌘C				| 复制
+⌘X				| 剪切
+⌘V				| 粘贴
 ⌘/				| 注释
 ⌘⌥/				| 块注释
-⌘Y				| 恢复或重复
+⌘Z				| 撤销
+⌘Y				| 恢复撤销
 ⌘⇧V				| 粘贴并自动缩进
+⌘⌥V				| 从历史中选择粘贴
 ⌃M				| 跳转至对应的括号
 ⌘U				| 软撤销（可撤销光标移动）
 ⌘⇧U				| 软重做（可重做光标移动）
+⌘⇧S				| 保存所有文件
+⌘]				| 向右缩进
+⌘[				| 向左缩进
+⌘⌥T				| 特殊符号集
 
 **查找/替换**
 
