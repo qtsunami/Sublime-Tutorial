@@ -41,6 +41,13 @@
 
 	![DocBlockr](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/docblock.jpeg)
 	
+* **[SFTP](http://wbond.net/sublime_packages/sftp)** 快速编辑远程服务器文件
+* **[CTags](https://github.com/SublimeText/CTags)**  让Sublime 支持Ctags
+* **[SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)** 行内语法检测插件，支持： C/C++, Java, Python, PHP, JS, HTML, CSS, etc.
+* **[Alignment](http://wbond.net/sublime_packages/alignment)** 简单到极致的多行选择和多行选择对齐插件
+* **[Markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview)** Markdown
+
+	
 
 ## 0x02 主题 (Theme)
 [Afterglow](https://github.com/YabataDesign/afterglow-theme)  **Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme Spacegray. The syntax color scheme is mostly derived from idlefingers.**
@@ -73,6 +80,7 @@
 ⌘N   			| 新建文件
 ⌘⇧W   			| 关闭sublime，关闭所有文件
 ⌘W   			| 关闭当前文件
+⌘P				| 跳转、前往文件、前往项目、命令提示、前往method等等（Goto anything）
 ⌘⇧T   			| 重新打开最近关闭的文件
 ⌘T				| 前往文件
 ⌘⌃P				| 前往项目
@@ -81,11 +89,14 @@
 ⌃G				| 前往行
 ⌘KB				| 开关侧栏
 ⌃`				| 打开控制台
+⌃-				| 光标跳回上一个位置
+⌃⇧-				| 光标恢复位置 
 
 **编辑**
 
 快捷键 		  	| 功能
 ------------ 	| ---------------------
+⌘A				| 全选
 ⌘L				| 选择行（重复按下将下一行加入选择）
 ⌘D				| 选择词（重复按下时多重选择相同的词进行多重编辑）
 ⌃⇧M				| 选择括号的内容
@@ -114,6 +125,7 @@
 ⌘]				| 向右缩进
 ⌘[				| 向左缩进
 ⌘⌥T				| 特殊符号集
+⌘⇧L				| 将选区转换成多个单行选区
 
 **查找/替换**
 
@@ -140,6 +152,7 @@
 快捷键 		  	| 功能
 ------------ 	| ---------------------
 ⌘⌃上下键		| 两行交换位置
+⌘KB				| 显示/隐藏侧边栏
 
 
 
