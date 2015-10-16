@@ -1,10 +1,16 @@
 # Sublime Text 快捷键
 
 ## 0x00 介绍 (Introduce)
-> Sublime Text具有漂亮的用户界面和强大的功能，例如代码缩略图，Python的插件，代码段等。还可自定义键绑定，菜单和工具栏。Sublime Text 的主要功能包括：拼写检查，书签，完整的 Python API ， Goto 功能，即时项目切换，多选择，多窗口等等。Sublime Text 是一个跨平台的编辑器，同时支持Windows、Linux、Mac OS X等操作系统。
+> Sublime Text具有漂亮的用户界面和强大的功能，例如代码缩略图，Python的插件，代码段等。还可自定义键绑定，菜单和工具栏。Sublime Text 的主要功能包括：拼写检查，书签，完整的 Python API ， Goto 功能，即时项目切换，多选择，多窗口等等。Sublime Text 是一个跨平台的编辑器，同时支持Windows、Linux、Mac OS X等操作系统。（百度百科）
+
+**进入[Sublime Text 官网](http://www.sublimetext.com/)**， 目前Sublime Text 3 Beta版已发布，最新版本为Build 3083。
+
+#### *下载Sublime Text*
+- [Sublime Text 2下载](http://www.sublimetext.com/2) 
+- [Sublime Text 3下载](http://www.sublimetext.com/3)
 
 ## 0x01 插件 (Plugins)
-> Sublime Text 有一个强大的，基于python的插件API。
+> Sublime Text 有一个强大的，基于python的插件API。Sublime Text插件丰富
 
 ### 安装Package Control
 
@@ -46,6 +52,7 @@
 * **[SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)** 行内语法检测插件，支持： C/C++, Java, Python, PHP, JS, HTML, CSS, etc.
 * **[Alignment](http://wbond.net/sublime_packages/alignment)** 简单到极致的多行选择和多行选择对齐插件
 * **[Markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview)** Markdown
+* **[ChineseLocalization](https://github.com/rexdf/Chinese-Localization)** Sublime 汉化插件
 
 	
 
