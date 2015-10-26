@@ -47,6 +47,15 @@
 
 	![DocBlockr](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/docblock.jpeg)
 	
+* **[Sublimerge Pro](http://www.sublimerge.com/)**  sublimerge是一个插件，而不是一个独立的应用程序。sublimerge 主要用于文件之间的对比。
+	
+	![Sublimerge Pro](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublimerge.png)
+	
+		1.如果你安装了Package Control， ⌘⇧p([cmd]+[shift]+[p])打开命令控制板
+		2.选择Package Control: Install Package
+		3.搜索 Sublimerge pro 然后点击安装，即可。
+		4.[ctrl]+[alt]+d可以调出与Clipboard进行比较。
+	
 * **[SFTP](http://wbond.net/sublime_packages/sftp)** 快速编辑远程服务器文件
 * **[CTags](https://github.com/SublimeText/CTags)**  让Sublime 支持Ctags
 * **[SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)** 行内语法检测插件，支持： C/C++, Java, Python, PHP, JS, HTML, CSS, etc.
