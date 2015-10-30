@@ -70,9 +70,37 @@
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/D4CD1C6C-F456-4EB3-BD17-7EFA58D5AA54.png)
 
+*我的配置*
+
+	{
+		"color_inactive_tabs": true,
+		"color_scheme": "Packages/User/SublimeLinter/Afterglow-markdown (SL).tmTheme",
+		"draw_indent_guides": false,
+		"font_size": 16,
+		"ignored_packages":
+		[
+			"Markdown",
+			"Vintage"
+		],
+		"sidebar_row_padding_medium": true,
+		"sidebar_size_14": true,
+		"status_bar_brighter": true,
+		"tabs_label_not_italic": true,
+		"tabs_medium": true,
+		"tabs_padding_medium": true,
+		"theme": "Afterglow-orange.sublime-theme",
+		"trim_trailing_white_space_on_save": false,
+		"word_wrap": true,
+		"wrap_width": 140
+	}
+
 [Material](https://github.com/equinusocio/material-theme) **点击看具体的吧**
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
+
+[coffee](https://github.com/Toddses/coffee)  咖啡色界面，偏暗系。
+
+![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublime-theme-coffee.jpg)
 
 
 
