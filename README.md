@@ -102,6 +102,46 @@
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublime-theme-coffee.jpg)
 
+**简单配置**
+	
+	{
+		"color_scheme": "Packages/User/SublimeLinter/Coffee Dark Roast (SL).tmTheme",
+		"font_size": 16,
+		"ignored_packages":
+		[
+			"Markdown"
+		],
+		"theme": "Coffee Dark Roast.sublime-theme"
+	}
+
+[predawn](https://github.com/jamiewilson/predawn)
+
+![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublime-theme-predawn.png)
+
+**简单配置**
+
+	{
+		"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+		"font_size": 16,
+		"ignored_packages":
+		[
+			"Markdown"
+		],
+		"predawn_findreplace_small": false,
+		"predawn_quick_panel_small": false,
+		"predawn_sidebar_arrows": false,
+		"predawn_sidebar_large": false,
+		"predawn_sidebar_medium": false,
+		"predawn_sidebar_narrow": false,
+		"predawn_sidebar_small": false,
+		"predawn_sidebar_xlarge": false,
+		"predawn_sidebar_xsmall": false,
+		"predawn_tabs_active_underline": false,
+		"predawn_tabs_small": true,
+		"theme": "predawn-DEV.sublime-theme",
+		"word_wrap": true,
+		"wrap_width": 140
+	}
 
 
 ## 0x03 快捷键 (keymap)
