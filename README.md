@@ -99,7 +99,7 @@
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
 
 [material](http://equinusocio.github.io/material-theme/)
-![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
+![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/Material.png)
 
 [coffee](https://github.com/Toddses/coffee)  咖啡色界面，偏暗系。
 
