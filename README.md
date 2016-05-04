@@ -98,6 +98,9 @@
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
 
+[material](http://equinusocio.github.io/material-theme/)
+![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/material-theme.png)
+
 [coffee](https://github.com/Toddses/coffee)  咖啡色界面，偏暗系。
 
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublime-theme-coffee.jpg)
@@ -114,8 +117,8 @@
 		"theme": "Coffee Dark Roast.sublime-theme"
 	}
 
-[predawn](https://github.com/jamiewilson/predawn)
 
+[predawn](https://github.com/jamiewilson/predawn)
 ![图片](https://github.com/liveNo/Sublime-Tutorial/raw/master/Screenshots/sublime-theme-predawn.png)
 
 **简单配置**
@@ -142,6 +145,8 @@
 		"word_wrap": true,
 		"wrap_width": 140
 	}
+
+
 
 
 ## 0x03 快捷键 (keymap)
